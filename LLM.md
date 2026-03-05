@@ -13,3 +13,11 @@ frontend/
 backend/
     main.rs
 ```
+
+## Dependencies/Frontend
+
+- Current dependencies: `crypto`,Don't install any package without a justification.
+
+## Rules
+
+- Don't touch in default directories(android,ios,linux,macos,web,windows),only touch in lib directory.
